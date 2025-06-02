@@ -1,8 +1,10 @@
 
-Publications last updated 02.05.2024.
+Publications last updated 2025-06-02.
 
 ### Publications
-
+16. Tinits, Peeter (2025). Andmepõhine vaade tärkavale eesti kirjakogukonnale 1800–1940 Rahvusbibliograafia, andmete rikastamine ja rahvakoolid. (*A data-intensive perspective on an emerging Estonian Literary Community 1800-1940: National Bibliography, Data Enrichment, and Public Schools*) [https://doi.org/10.54013/kk809a2](https://doi.org/10.54013/kk809a2)
+15. Tinits, Peeter (2025). Digiteeritud Eesti ajalehed uurimisallikana (*Digitized Estonian Newspapers as a Research Source*), 31 (1), 73–111. [https://doi.org/10.3176/hist.2025.1.03](https://doi.org/10.3176/hist.2025.1.03)
+14. Kruusmaa, Krister; Tinits, Peeter; Nemvalts, Laura (2025). Curated Bibliographic Data: The Case of the Estonian National Bibliography. Journal of Open Humanities Data, 11 (1), 16. [https://doi.org/ 10.5334/johd.280](https://doi.org/10.1016/j.techfore.2024.123227)
 13. Pahker, Anna-Kati; Kanger, Laur; **Tinits, Peeter** (2024). Where is the deep sustainability turn most likely to emerge? An Industrial Modernity Index. Technological Forecasting and Social Change, 201, 123227. [https://doi.org/10.1016/j.techfore.2024.123227](https://doi.org/10.1016/j.techfore.2024.123227)
 12. Kanger, Laur; **Tinits, Peeter**; Pahker, Anna-Kati; Orru, Kati; Velmet, Aro; Sillak, Silver; Šeļa, Artjoms; Mertelsmann, Olaf; Tammiksaar, Erki; Vaik, Kristiina; Penna, Caetano C.R.; Tiwari, Amaresh Kumar; Lauk, Kalmer (2023). Long-term country-level evidence of major but uneven ruptures in the landscape of industrial modernity. Environmental Innovation and Societal Transitions, 48. [https://doi.org/10.1016/j.eist.2023.100765](https://doi.org/10.1016/j.eist.2023.100765)
 11. **Tinits, Peeter** (2023). Stratified Historical Corpus of Estonian 1800-1940. Eesti Rakenduslingvistika Ühingu aastaraamat = Estonian papers in applied linguistics, 19, 175−194. [https://doi.org/10.5128/ERYa19.11](https://doi.org/10.5128/ERYa19.11) [PDF](http://arhiiv.rakenduslingvistika.ee/ajakirjad/index.php/aastaraamat/article/view/ERYa19.11/571)
