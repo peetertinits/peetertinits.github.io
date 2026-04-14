@@ -1,5 +1,17 @@
 
-Talks last updated 21.01.2025.
+Talks last updated 14.04.2026.
+
+### 2026
+62. **Tinits, P.**; Sobchuk, O.; Tiihonen, I.; Mäkelä, E.; Tolonen, M.; Beheim, B. 2026. Talk. Cultural evolution of printed books in Europe 1500–1900. The Alliance of Digital Humanities Organizations (ADHO) conference DH2026. Daejeon, South Korea. 27.07.-31.07.2026 
+61. **Tinits, P.**; Sobchuk, O.; Tiihonen, I.; Mäkelä, E.; Tolonen, M.; Beheim, B. 2026. Talk. The Flow of Information in European Book Publishing, 1500–1800. Historical Network Research Conference 2026. 20.07.-22.07.2026
+60. **Tinits, P.**; Sobchuk, O.; Tiihonen, I.; Mäkelä, E.; Tolonen, M.; Beheim, B. 2026. Talk. Modelling the flow of information in European book publishing 1500-1800. Cultural Evolution Society (CES) Conference 2026. 11.05.-13.05.2026. Rabat, Morocco
+59. **Tinits, P.**; Sobchuk, O.; Tiihonen, I.; Mäkelä, E.; Tolonen, M.; Beheim, B. 2026. Talk. The death of Latin: Detecting the demographic drivers of European vernacularization 1450-1900. 16th International Conference on the Evolution of Language 2026. Plovdiv, Bulgaria. 07.04.-10.04.2026 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_et_al_EvoLang_2026_slides.pdf)
+58. Yiang, Y.; **Tinits, P.**; Tamariz, M.; Nolle, J. 2026. Talk. Folk dance as an ancient semiotic system and cultural replicator. 16th International Conference on the Evolution of Language 2026. Plovdiv, Bulgaria. 07.04.-10.04.2026
+
+### 2025
+
+57. **Tinits, P.** 2025. Talk. Trends in Collective Intelligence in Early Modern Book Printing in Europe. The 14th conference of the Nordic Association for Semiotic Studies along with the 15th Annual Lotman Days "Creativity – Complexity – Intelligence". Tallinn, Estonia. 11.06.-13.06.2025 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_NASS_2025_slides.pdf)
+56. **Tinits, P.** 2025. Talk. Cultural evolution of books: Explorations with bibliographic data. Helsinki Digital Humanities Research Seminar. Helsinki, Finland. 13.03.2025
 
 ### 2024
 
